@@ -1,0 +1,5 @@
+[tool.pdm]
+
+[project]
+dependencies = ["flask", "requests"]
+requires-python = ">=3.12"
